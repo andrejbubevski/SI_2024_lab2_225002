@@ -1,5 +1,5 @@
 # Втора лабораториска вежба по Софтверско инженерство
-## Andrej Bubevski 225002
+## Андреј Бубевски 225002
 ### Control Flow Graph
 ![cfg drawio](https://github.com/andrejbubevski/SI_2024_lab2_225002/blob/master/cfg-graph.jpg)
 
